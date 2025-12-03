@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Bucket/Bucket.csproj" Id="37362ec0-beac-4b83-abaa-0a82baf94f4f" />
+  <Project Path="Selection/Selection.csproj" Id="653bf842-98c8-4708-9450-34a86766f193" />
 </Solution>

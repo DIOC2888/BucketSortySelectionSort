@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{37362EC0-BEAC-4B83-ABAA-0A82BAF94F4F}</ProjectGuid>
+    <ProjectGuid>{653BF842-98C8-4708-9450-34A86766F193}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Bucket</RootNamespace>
-    <AssemblyName>Bucket</AssemblyName>
+    <RootNamespace>Selection</RootNamespace>
+    <AssemblyName>Selection</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
